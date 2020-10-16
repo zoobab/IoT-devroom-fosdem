@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 # FOSDEM Internet of Things devroom
 
 In February 2018, we're organizing the fifth FOSDEM devroom for the Internet of Things. We're now calling for proposals. Do you have an interesting project you'd like to present to more than 5,000 free and open source developers?
